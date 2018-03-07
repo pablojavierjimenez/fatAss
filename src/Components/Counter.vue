@@ -11,7 +11,7 @@
    */
   export default {
     data() {
-      if(a==b){function  (){
+      if(a==b){()=>{
         console.log('jsjsjs')
       }}
       return {
