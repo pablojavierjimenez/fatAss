@@ -13,7 +13,8 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "test": "jest --config src/jest.conf.js --coverage",
+    "test:unit": "jest --config src/jest.conf.js",
+    "test:coverage": "jest --config src/jest.conf.js --no-cache --coverage",
     "docs": "jsdoc -c jsdoc.json && rm -fr out",
     "clean": "rimraf .cache dist out",
     "docs-force": "rm -fr ./docs && npm run docs && rm -fr out"
