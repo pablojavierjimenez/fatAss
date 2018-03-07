@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import HomeView from '@/Home.view'
+import HomeView from 'Home.view'
 
 describe('Home.view.vue', () => {
   it('should render correct contents', () => {
