@@ -1,6 +1,8 @@
+
 VueJS App
 =========
-
+[this project is based on vue-parcel-boilerplate](https://github.com/eddyerburgh/parcel-vuejs-template#vue-parcel-boilerplate)
+[If you want to try something diffrent try this](https://github.com/masonz/parcel-vue-ts#parcel-vue-ts-)
 Index
 -----
 - References Articles
